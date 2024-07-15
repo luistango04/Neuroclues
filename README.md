@@ -4,6 +4,9 @@ I chose to use a tree structure to help process the data. CSV traditionally has 
 The exercise I chose to do was a salary expectations game where I multiply my salary expectations by the length of the value of each node. 
 I got a little bit lazy and decided to implement my classes inside the header files themselves to reduce the number of files. Honestly, I wish the syntax was this way as it makes it easier for me as outside to know where to go when something is wrong. 
 
+Issues Currently:
+I had difficult converting the JSON file to a Proper Tree structure in the limited available time. 
+
 Overview
 
 The project consists of the following components:
